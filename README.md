@@ -13,7 +13,7 @@ In this assignment, I have created a blueprint of a straight staircase. The numb
 - Ability to change the type of staircase from the editor
 
 ### Files:
-- `Staircase_BP.uasset`: Blueprint file for the straight staircase
+- `BP_StaircaseActor.uasset`: Blueprint file for the straight staircase
 - `README.md`: This README file providing information about the assignment submission
 
 ### Usage:
